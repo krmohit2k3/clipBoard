@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clipBoard/static/css/main.b54d753e.css",
+    "main.js": "/clipBoard/static/js/main.5d3a018b.js",
+    "static/js/787.d9dd862e.chunk.js": "/clipBoard/static/js/787.d9dd862e.chunk.js",
+    "index.html": "/clipBoard/index.html",
+    "main.b54d753e.css.map": "/clipBoard/static/css/main.b54d753e.css.map",
+    "main.5d3a018b.js.map": "/clipBoard/static/js/main.5d3a018b.js.map",
+    "787.d9dd862e.chunk.js.map": "/clipBoard/static/js/787.d9dd862e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b54d753e.css",
+    "static/js/main.5d3a018b.js"
+  ]
+}
